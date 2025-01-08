@@ -18,5 +18,8 @@
   "homepage": "https://github.com/QuanTHDSE/Git-Hub-test#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
   }
 }
